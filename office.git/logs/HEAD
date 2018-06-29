@@ -1,0 +1,39 @@
+0000000000000000000000000000000000000000 a12e6397890aa9b13b4b70b79b28b54d1fdeca97 Ivan Omelyanenko <lukystile@gmail.com> 1504790017 +0300	commit (initial): Initial commit
+a12e6397890aa9b13b4b70b79b28b54d1fdeca97 3114d6fcbee430df0c31dd6d1b2722e893e1953c Ivan Omelyanenko <lukystile@gmail.com> 1504790274 +0300	commit: Non initial commit
+3114d6fcbee430df0c31dd6d1b2722e893e1953c 81d47601a53f60eb90b1b8b38122298f093ab57d Ivan Omelyanenko <lukystile@gmail.com> 1504793074 +0300	commit: update
+81d47601a53f60eb90b1b8b38122298f093ab57d af59262a46c877daeb15cafff952c1f386152306 Ivan Omelyanenko <lukystile@gmail.com> 1504793518 +0300	commit: update
+af59262a46c877daeb15cafff952c1f386152306 027772d20e22288b46bf7f947aac91a66b8507ef Ivan Omelyanenko <lukystile@gmail.com> 1504793895 +0300	commit: update
+027772d20e22288b46bf7f947aac91a66b8507ef 00b2f6e855605803b355fcb869719b8ac03d01e9 Ivan Omelyanenko <lukystile@gmail.com> 1505403457 +0300	commit: Add sort in "users"
+00b2f6e855605803b355fcb869719b8ac03d01e9 00b2f6e855605803b355fcb869719b8ac03d01e9 Ivan Omelyanenko <lukystile@gmail.com> 1505914996 +0300	reset: moving to HEAD
+00b2f6e855605803b355fcb869719b8ac03d01e9 4ffb89fdb4cda4a4b41a11dfac4121d507c6941f Ivan Omelyanenko <lukystile@gmail.com> 1505915986 +0300	commit: Init
+4ffb89fdb4cda4a4b41a11dfac4121d507c6941f 3400656863704b04451d6d107448cfe1840f6ce9 Ivan Omelyanenko <lukystile@gmail.com> 1505916161 +0300	commit (merge): Initial
+3400656863704b04451d6d107448cfe1840f6ce9 3400656863704b04451d6d107448cfe1840f6ce9 Ivan Omelyanenko <lukystile@gmail.com> 1505916328 +0300	checkout: moving from master to ivan
+3400656863704b04451d6d107448cfe1840f6ce9 617889a24bee8290498d90972582deaade60f52b Ivan Omelyanenko <lukystile@gmail.com> 1505987026 +0300	commit: update
+617889a24bee8290498d90972582deaade60f52b a985bbca05a0a8dcc27a297bf0045efd4feccec0 Ivan Omelyanenko <lukystile@gmail.com> 1505987376 +0300	commit: update
+a985bbca05a0a8dcc27a297bf0045efd4feccec0 fe8fc7961d3ba6e3faafce1c9a0f9c05cc3854c4 Ivan Omelyanenko <lukystile@gmail.com> 1506422412 +0300	commit: add user delete
+fe8fc7961d3ba6e3faafce1c9a0f9c05cc3854c4 9ec28481ccda5bec6f8a46c86ea9db7bb94984e2 Ivan Omelyanenko <lukystile@gmail.com> 1506531343 +0300	commit: add roles and premission page without functional
+9ec28481ccda5bec6f8a46c86ea9db7bb94984e2 649a100a9c193f52dba35aa6e66b1d4b00b65c8a Ivan Omelyanenko <lukystile@gmail.com> 1506711120 +0300	commit: add table for roles and permition for user and admin
+649a100a9c193f52dba35aa6e66b1d4b00b65c8a dd4b9fcefbd736f5c11181ec4728c4cb665b4a5c Ivan Omelyanenko <lukystile@gmail.com> 1506937683 +0300	commit: add migration for role 'manager'
+dd4b9fcefbd736f5c11181ec4728c4cb665b4a5c d04ab13abf58b359d4f88b0f85bd1610917afd4f Ivan Omelyanenko <lukystile@gmail.com> 1506948909 +0300	commit: update rback page
+d04ab13abf58b359d4f88b0f85bd1610917afd4f 63071d1dac0e3674fd5a0b3485a99e04b7311ef0 Ivan Omelyanenko <lukystile@gmail.com> 1507120682 +0300	commit: add permission for role
+63071d1dac0e3674fd5a0b3485a99e04b7311ef0 eec8c5a7b3a142a3093c831216eb8ce8f91b70a8 Ivan Omelyanenko <lukystile@gmail.com> 1507205706 +0300	commit: add page for add permission
+eec8c5a7b3a142a3093c831216eb8ce8f91b70a8 8735909e5e4651bb76b9f9638786f0748e6d1df7 Ivan Omelyanenko <lukystile@gmail.com> 1507214987 +0300	commit: update role and permission page, add delete for permission
+8735909e5e4651bb76b9f9638786f0748e6d1df7 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507216826 +0300	commit: add page for add user
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 3400656863704b04451d6d107448cfe1840f6ce9 Ivan Omelyanenko <lukystile@gmail.com> 1507216835 +0300	checkout: moving from ivan to master
+3400656863704b04451d6d107448cfe1840f6ce9 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507216909 +0300	checkout: moving from master to ivan
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 3400656863704b04451d6d107448cfe1840f6ce9 Ivan Omelyanenko <lukystile@gmail.com> 1507216939 +0300	checkout: moving from ivan to master
+3400656863704b04451d6d107448cfe1840f6ce9 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507216996 +0300	checkout: moving from master to ivan
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 4e62206c404216822a01730150852e31e3729c47 Ivan Omelyanenko <lukystile@gmail.com> 1507217294 +0300	checkout: moving from ivan to alexander
+4e62206c404216822a01730150852e31e3729c47 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507217449 +0300	checkout: moving from alexander to ivan
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 4e62206c404216822a01730150852e31e3729c47 Ivan Omelyanenko <lukystile@gmail.com> 1507217461 +0300	checkout: moving from ivan to alexander
+4e62206c404216822a01730150852e31e3729c47 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507217477 +0300	checkout: moving from alexander to ivan
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507217520 +0300	checkout: moving from ivan to ivan
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507217790 +0300	reset: moving to HEAD
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 4e62206c404216822a01730150852e31e3729c47 Ivan Omelyanenko <lukystile@gmail.com> 1507217796 +0300	checkout: moving from ivan to alexander
+4e62206c404216822a01730150852e31e3729c47 3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b Ivan Omelyanenko <lukystile@gmail.com> 1507285745 +0300	checkout: moving from alexander to ivan
+3cf3ec6680288f1a6d6b9c25f8c4199c32f1f50b 824f26fe60f8e9a1b679e67bab3dcf702b84b9fc Ivan Omelyanenko <lukystile@gmail.com> 1507286297 +0300	commit: update
+824f26fe60f8e9a1b679e67bab3dcf702b84b9fc 85d0c5ba3147a75901e369eee1a0c161a16ab556 Ivan Omelyanenko <lukystile@gmail.com> 1507286335 +0300	commit: update
+85d0c5ba3147a75901e369eee1a0c161a16ab556 4e62206c404216822a01730150852e31e3729c47 Ivan Omelyanenko <lukystile@gmail.com> 1507286375 +0300	checkout: moving from ivan to alexander
+4e62206c404216822a01730150852e31e3729c47 663f2f27b0315db48e8c5ecc5b65c06c83eacf23 Ivan Omelyanenko <lukystile@gmail.com> 1507286610 +0300	commit (merge): Merge branch 'ivan' into alexander
+663f2f27b0315db48e8c5ecc5b65c06c83eacf23 85d0c5ba3147a75901e369eee1a0c161a16ab556 Ivan Omelyanenko <lukystile@gmail.com> 1507286645 +0300	checkout: moving from alexander to ivan
+85d0c5ba3147a75901e369eee1a0c161a16ab556 663f2f27b0315db48e8c5ecc5b65c06c83eacf23 Ivan Omelyanenko <lukystile@gmail.com> 1507286659 +0300	merge alexander: Fast-forward
