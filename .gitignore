@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # yii console commands
 /yii
 /yii_test
@@ -36,3 +37,8 @@ phpunit.phar
 
 # node modules
 /node_modules
+=======
+/logs
+/.data
+variables.env
+>>>>>>> origin/victor
